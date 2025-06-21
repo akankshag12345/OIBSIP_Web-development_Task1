@@ -14,7 +14,6 @@ Steps Performed:
 Tools Used:
 
 - Front-end: HTML, CSS, JavaScript
-- Frameworks/Libraries: None (vanilla JavaScript) or optional frameworks like React or Angular
 - Development Environment: Visual Studio Code or any other preferred code editor
 - Version Control: Git and GitHub for version control and collaboration
 
